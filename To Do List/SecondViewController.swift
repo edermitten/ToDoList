@@ -30,6 +30,7 @@ class SecondViewController: UIViewController, UITextFieldDelegate {
         
         UserDefaults.standard.set(items, forKey: "items")
         itemTextfield.text = ""
+        //segundo commit
         
     }
     
